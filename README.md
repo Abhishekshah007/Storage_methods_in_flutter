@@ -1,5 +1,6 @@
 # Storage methods in flutter
 
---> Using rootBundle
+--> Using Dynamic File Storage
 
-"The rootBundle provides a load method that can be used to load the content of an asset file asynchronously."
+Example Preview
+This example app has a TextFiled that lets the user enter his/her name to write to a text file. It also contains a Text widget that displays the name read from that file.
